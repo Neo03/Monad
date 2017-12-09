@@ -1,1 +1,1 @@
-# Monad
+Monad chapter from book Haskell.  
