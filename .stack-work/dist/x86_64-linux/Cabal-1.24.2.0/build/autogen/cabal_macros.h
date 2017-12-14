@@ -7,12 +7,26 @@
   (major1) == 0 && (major2) <  1 || \
   (major1) == 0 && (major2) == 1 && (minor) <= 0)
 
+/* package QuickCheck-2.9.2 */
+#define VERSION_QuickCheck "2.9.2"
+#define MIN_VERSION_QuickCheck(major1,major2,minor) (\
+  (major1) <  2 || \
+  (major1) == 2 && (major2) <  9 || \
+  (major1) == 2 && (major2) == 9 && (minor) <= 2)
+
 /* package base-4.9.1.0 */
 #define VERSION_base "4.9.1.0"
 #define MIN_VERSION_base(major1,major2,minor) (\
   (major1) <  4 || \
   (major1) == 4 && (major2) <  9 || \
   (major1) == 4 && (major2) == 9 && (minor) <= 1)
+
+/* package checkers-0.4.9.5 */
+#define VERSION_checkers "0.4.9.5"
+#define MIN_VERSION_checkers(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  4 || \
+  (major1) == 0 && (major2) == 4 && (minor) <= 9)
 
 /* tool alex-3.1.7 */
 #define TOOL_VERSION_alex "3.1.7"
@@ -98,7 +112,7 @@
   (major1) == 2 && (major2) <  26 || \
   (major1) == 2 && (major2) == 26 && (minor) <= 0)
 
-#define CURRENT_COMPONENT_ID "Monad-0.1.0.0-JPwTPfwQJeWCpsIBZspweC"
+#define CURRENT_COMPONENT_ID "Monad-0.1.0.0-De4t3uhEx6WGh84WJ5s2MG"
 
-#define CURRENT_PACKAGE_KEY "Monad-0.1.0.0-JPwTPfwQJeWCpsIBZspweC"
+#define CURRENT_PACKAGE_KEY "Monad-0.1.0.0-De4t3uhEx6WGh84WJ5s2MG"
 

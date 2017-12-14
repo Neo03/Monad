@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/bin"
-libdir     = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/lib/x86_64-linux-ghc-8.0.2/Monad-0.1.0.0-JPwTPfwQJeWCpsIBZspweC"
+libdir     = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/lib/x86_64-linux-ghc-8.0.2/Monad-0.1.0.0-De4t3uhEx6WGh84WJ5s2MG"
 dynlibdir  = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/lib/x86_64-linux-ghc-8.0.2"
 datadir    = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/share/x86_64-linux-ghc-8.0.2/Monad-0.1.0.0"
 libexecdir = "/home/vasiliy/TestAll/Haskell/Monad/.stack-work/install/x86_64-linux/lts-9.17/8.0.2/libexec"
